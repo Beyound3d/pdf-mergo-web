@@ -1,14 +1,11 @@
-# pdfo
-<pre>inililize the repo : npm init -y
-making server: node server.js
-installing express: npm i express
-installing nodemon: npm i -g nodemon
-installing multer: npm i multer</pre>
 # (🅿️)PDF-Mergo
 PDF_Mergo is a PDF Merging app. We can merge two or more pdf just a click on submit and download merged PDF.
 # Execution
 * npm init -y     (initialise to package.json) 
 * node server.js  (At starting http://localhost:3000)
+* installing express: npm i express
+* installing nodemon: npm i -g nodemon
+* installing multer: npm i multer</pre>
 # Packages
                                               
                                               
