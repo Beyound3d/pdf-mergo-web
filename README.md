@@ -15,12 +15,7 @@ PDF_Mergo is a PDF Merging app. We can merge two or more pdf just a click on sub
 
 ```npm i     express``` 
 
-![Screenshot 2023-07-08 194554](https://github.com/Beyound3d/pdf-mergo-/assets/129869652/3b9e44fa-7a47-4413-854e-21a348c11a1e)
-
-<BR>
-<BR>
-
-![Screenshot 2023-07-08 194443](https://github.com/Beyound3d/pdf-mergo-/assets/129869652/bfc5b18a-d7ac-401e-88dd-c0df91377f40)
+![pdfo](https://github.com/Beyound3d/pdfo/assets/129869652/1e26b0d9-5a56-4f08-a82e-ea9d2a85ff8d)
 
 # Note:
 node_modules file is not uploaded. Because it contain a lot of file.
